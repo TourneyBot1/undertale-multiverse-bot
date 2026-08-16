@@ -1,0 +1,7 @@
+config.js
+data/
+node_modules/
+*.tmp
+*.bak-*
+*.log
+.vscode/
