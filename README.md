@@ -15,6 +15,15 @@ A feature-rich Discord bot inspired by the Undertale universe. Battle as iconic 
 - **21 achievements** with character and item rewards
 - **Events** — rotating limited-time bosses and exclusive characters
 
+## 🕹️ Play Your Way
+
+Whether you are here to relax or to climb, there is a path for you:
+
+- **Casual player** — collect characters, pull the gacha, craft and fuse, clear bosses at your own pace, and play through Story Mode in your DMs.
+- **Competitive player** — build your best team, queue up in Ranked PvP, climb the divisions, and fight for a spot in the playoffs.
+
+> 🏆 **Season 4 Playoffs are coming soon!** Grind your rank now and secure your seat.
+
 ## 🎮 Core Commands
 
 | Command | What it does |
@@ -74,6 +83,13 @@ deploy-commands.js  Slash command registration
 ```
 
 Player data lives in `data/players.json`, written atomically with rolling backups. Both `config.js` and `data/` are gitignored and must never be committed.
+
+## 👑 Team
+
+- **Founder:** Mazin
+- **Co-Owner:** spicyking1
+
+Join the community server: [discord.gg/fDutC9gtQG](https://discord.gg/fDutC9gtQG)
 
 ## 🔗 Links
 
